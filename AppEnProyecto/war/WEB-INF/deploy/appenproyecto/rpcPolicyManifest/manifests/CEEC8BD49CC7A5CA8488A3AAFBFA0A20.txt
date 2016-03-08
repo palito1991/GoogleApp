@@ -1,0 +1,2 @@
+serviceClass: com.app.client.GreetingService
+path: DB60A66A15A16AD9E29A2305AC761D1E.gwt.rpc
